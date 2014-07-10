@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>824BF353-6196-459B-84DA-FE2E8D8CA7FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestFont</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D64EAA5-7544-483B-8D28-831336D5EB64</key>
+		<string>https://github.com/nonstriater/TestFont.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestFont.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D64EAA5-7544-483B-8D28-831336D5EB64</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nonstriater/TestFont.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0D64EAA5-7544-483B-8D28-831336D5EB64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D64EAA5-7544-483B-8D28-831336D5EB64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestFont</string>
+		</dict>
+	</array>
+</dict>
+</plist>

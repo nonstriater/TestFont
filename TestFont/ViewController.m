@@ -20,12 +20,13 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSMutableDictionary *fonts = [[NSMutableDictionary alloc] init];
     NSArray *fontFamilys = [UIFont familyNames];
-    
+    NSLog(@"%@",fontFamilys);
     int count = 0;
     
     for (NSString *fontFamily in fontFamilys) {
         
         NSArray *fontNames = [UIFont fontNamesForFamilyName:fontFamily];
+        NSLog(@"%@===>%@",fontFamily,fontNames);
         
         [fonts setObject:fontNames forKey:fontFamily];
         
@@ -41,7 +42,7 @@
     
     self.dataSource = fonts;
     
-    
+    [_tableView reloadData];
     
     
 }
